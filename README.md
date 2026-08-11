@@ -2,8 +2,11 @@
 Mas pode me chamar de Vency 😉
 --- 
 Sobre mim:
+
 Graduando em Tecnologia em Analise e Desenvolvimento de Sistemas no IFSP - Campus Cubatão
+
 Desenvolvedor backend
+
 Tenho experiência com analise de dados em Python
 
 
