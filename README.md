@@ -1,3 +1,3 @@
-### Olá, sou o João Venceslau, mas pode me chamar de Vency.
+### Olá, sou o João Venceslau.
 --- 
-d
+Graduando em Tecnologia em Analise e Desenvolvimento de Sistemas no IFSP - Campus Cubatão
