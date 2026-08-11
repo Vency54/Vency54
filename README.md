@@ -1,5 +1,5 @@
 ### Olá, sou o João Venceslau.
-Mas pode me chamar de Vency <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/dbd1097d-7266-41b9-aa51-bc90a1d85cbf" />
+Mas pode me chamar de *Vency!*
 
 --- 
 Sobre mim:
