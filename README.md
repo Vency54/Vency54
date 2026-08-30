@@ -1,5 +1,4 @@
 ### Olá, sou o João Venceslau
-Mas pode me chamar de *Vency!*
 
 --- 
 ### Sobre mim:
